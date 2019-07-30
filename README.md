@@ -1,4 +1,4 @@
-ceshi
+
 # ShuffleNet v2
 This is an implementation of [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
 ](https://arxiv.org/abs/1807.11164).
