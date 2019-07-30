@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd10c3f950ad4192ac1c480838b1df0e1e81a008
 # ShuffleNet v2
 This is an implementation of [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
 ](https://arxiv.org/abs/1807.11164).
